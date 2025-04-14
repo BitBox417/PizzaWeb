@@ -27,13 +27,4 @@ ASP.NET Core Identity
 Razor Pages
 
 
-🚀 快速啟動
 
-git clone https://github.com/yourname/PizzaKing.git
-cd PizzaKing/PizzaKing
-
-
-dotnet ef database update
-
-
-dotnet run
