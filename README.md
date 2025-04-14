@@ -28,12 +28,12 @@ Razor Pages
 
 
 🚀 快速啟動
-# 1. 克隆專案
+
 git clone https://github.com/yourname/PizzaKing.git
 cd PizzaKing/PizzaKing
 
-# 2. 建立資料庫
+
 dotnet ef database update
 
-# 3. 執行網站
+
 dotnet run
